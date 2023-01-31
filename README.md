@@ -38,7 +38,7 @@ Project Details:
   
      ![Add Task](https://user-images.githubusercontent.com/88615039/215799451-f1f42f80-7988-4a57-af3a-c4086cef5032.jpg)
      
-     If the user does not write a title the following message will appear:
+     If the user does not write a title, the following message will appear:
      
      ![Validation 1](https://user-images.githubusercontent.com/88615039/215800698-008b872f-28c5-42c8-ab52-a695a092d663.jpg)
      
