@@ -19,7 +19,7 @@ Installation Instructions:
   4.	Install the Go extension in Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=golang.Go
   5.	Restart Visual Studio Code.
   6.	Verify Go installation by running "go version" in the Integrated Terminal.
-  7.  Place our "Go" folder in the GOPATH.
+  7.  Place our "go" folder in the GOPATH.
   8.  Open main.go in Visual Studio and open the terminal.
   9.  Then enter in the terminal: $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
   10. Then: cd src
