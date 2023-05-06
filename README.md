@@ -1,4 +1,4 @@
-# Group Project by Zed Group
+# Task Management App
 
 Group Members:
   1. Rayyanur Rahman 1929067
